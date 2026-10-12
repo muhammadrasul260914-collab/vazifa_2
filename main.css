@@ -1,0 +1,36 @@
+.list{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.li{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    width: 350px;
+    height: 250px;
+    text-align: center;
+    background-color: cyan;
+}
+.id{
+    color: rgb(8, 26, 230);
+}
+
+.h2{
+    color: chocolate;
+}
+
+.p{
+    color: tomato;
+}
+
+.p1{
+    color: olivedrab;
+}
+
+.p2{
+    color: brown ;
+}
+
+.p3{
+    color: darkblue;
+}
